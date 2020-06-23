@@ -3,7 +3,10 @@
 # ==> follow the ebook "Linux shell scripting cookbook, 2nd Edition.pdf - page 35"
 
 #Filename: sleep.sh
-
+#===================================describle==========================================
+# tput sc ==> to store the cursor position.
+# tput rc ==> to restore the cursor position.
+#====================================================================================== 
 echo -n Count:
 tput 
 
